@@ -1,1 +1,1 @@
-# privat24-transactions
+# privatbank-transactions
